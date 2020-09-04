@@ -1,5 +1,10 @@
 # Readme
 
+## Install dependencies
+
+1. Create virtual environment
+2. Install dependencies via `pip install -r requirements.txt`
+
 run the api
 
 ```bash
